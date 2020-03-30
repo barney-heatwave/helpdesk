@@ -15,6 +15,6 @@ The size of the volume is told in megabytes, so you can Google "mb to gb" to wor
 
 That's it! Now your drive should be split into multiple volumes.
 
-If you think I missed anything, or you want to suggest a new tutorial, E-Mail me at [sabianroberts@gmail.com](sabianroberts@gmail.com).
+If you think I missed anything, or you want to suggest a new tutorial, E-Mail me at [sabianroberts@gmail.com](mailto:sabianroberts@gmail.com).
 
 Copyright © 2020 Sabian Roberts All Rights Reserved. "Sabian's IT Desk" is licensed under the BSD-3-Clause license.
